@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TicketChain Worker</string>
+    <string name="app_name_first">Ticket</string>
+    <string name="app_name_last">Chain</string>
+    <string name="initial_description_line1">The power</string>
+    <string name="initial_description_line2">of blockchain in your</string>
+    <string name="initial_description_line3">hands. You own your tickets!</string>
+    <string name="initial_button_setup">Setup</string>
+    <string name="register_button_next">Finish</string>
+    <string name="register_title">Register</string>
+    <string name="register_label_name">Name</string>
+    <string name="register_label_age">Age</string>
+    <string name="register_label_occupation">Occupation</string>
+    <string name="register_occupation_student">Student</string>
+    <string name="register_occupation_worker">Worker</string>
+    <string name="register_occupation_retired">Retired</string>
+    <string name="application_mode_title">Application Mode</string>
+    <string name="application_mode_button_finish">Finish</string>
+    <string name="application_mode_simple_description">The Simple mode is targeted at users that want a simpler and more straightforward experience. It displays a graph with the most filled hours.</string>
+    <string name="application_mode_advanced_description">The Advanced mode is targeted at users that want a simpler and more straightforward experience. It displays a graph with the most filled hours.</string>
+    <string name="application_mode_simple_name">Simple</string>
+    <string name="application_mode_advanced_name">Advanced</string>
+    <string name="drawer_button_request_ticket">Request Ticket</string>
+</resources>

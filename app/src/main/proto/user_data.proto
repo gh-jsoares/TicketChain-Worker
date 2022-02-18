@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "ticketchain.mobile.worker.storage.proto";
+option java_multiple_files = true;
+
+message UserData {
+  string name = 1;
+  int32 age = 2;
+  int32 counter = 3;
+  bool checkIn = 4;
+  int32 theme = 5;
+}

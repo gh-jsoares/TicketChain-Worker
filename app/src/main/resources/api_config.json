@@ -1,0 +1,7 @@
+{
+  "protocol": "http",
+  "host": "139.162.165.44",
+  "port": 8090,
+  "secure_port": 443,
+  "timeout": 3000
+}
